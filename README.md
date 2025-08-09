@@ -31,8 +31,8 @@ Compatible Linux, Termux (Android) et Windows (via WSL ou Python natif).
 
 📦 Installation
 
-git clone https://github.com/<ton-repo>/osint-real-info-finder.git
-cd osint-real-info-finder
+git clone https://github.com/whitefacebook/Osint.git
+
 pip install requests beautifulsoup4
 
 
